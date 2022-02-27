@@ -1695,6 +1695,19 @@ a {
 .cid-sYCoNuABa8 H6 {
   text-align: center;
 }
+.cid-sYCwFeJgqD {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sYCwFeJgqD .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sYCwFeJgqD .mbr-section-title,
+.cid-sYCwFeJgqD .mbr-section-subtitle,
+.cid-sYCwFeJgqD .mbr-text {
+  text-align: center;
+}
 .cid-sYxyPBwLw1 {
   z-index: 1000;
   width: 100%;
